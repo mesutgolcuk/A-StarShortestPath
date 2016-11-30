@@ -1,6 +1,4 @@
-## Generates random cities
-
-## Then finds shortest path between selected cities
+Generates random cities then finds shortest path between selected cities using A* Algorithm
 
 # Screenshots
 ![alt text](screenshots/ss0.png "")
